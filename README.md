@@ -1,6 +1,8 @@
 # Small Pet Feeder
-Pet Feeder for small Pets
+IOT Pet Feeder for small Pets
 
-C++
+C++<br>
 Arduino
+ESP8266WebServer
+ESP8266Wifi
 
